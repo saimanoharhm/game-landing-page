@@ -1,0 +1,23 @@
+.display-card {
+  padding-top: 3rem;
+  max-width: 130rem;
+  height: 30rem;
+  padding: 2rem;
+  justify-content: center;
+  z-index: 100;
+  transform: rotate(-4.27deg);
+}
+
+.about {
+  color: #333;
+  margin-top: 9rem;
+}
+
+.title {
+  font-size: 1.8rem;
+}
+
+.description {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+}
