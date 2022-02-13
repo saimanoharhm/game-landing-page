@@ -1,4 +1,5 @@
 .display-card {
+  font-style: inherit;
   padding-top: 3rem;
   max-width: 130rem;
   height: 30rem;
@@ -19,5 +20,5 @@
 
 .description {
   margin-top: 1rem;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
